@@ -14,7 +14,7 @@ This project requires Python, the Python file ‘visuals.py’ provided by Udaci
 -	Scikit-learn
 
 ### Data
-1994 U.S. Census data are provided by Udacity as a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. This paper can be found [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+1994 U.S. Census data are provided by Udacity as a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. The original dataset is hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 There are more than 45000 data points and 13 features:
 - `age`: Age
 - `workclass`: Working Class (Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked)
